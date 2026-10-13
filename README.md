@@ -22,5 +22,7 @@ To write a python program to find the inverse of a matrix
 ### print(B)
 ## Output:
 <img width="778" height="771" alt="Screenshot 2026-10-13 154626" src="https://github.com/user-attachments/assets/152c812e-140f-4aae-be22-dd3c56be654c" />
+
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
